@@ -1,0 +1,6 @@
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\OutPara1\bin\Debug\OutPara1.exe.config
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\OutPara1\bin\Debug\OutPara1.exe
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\OutPara1\bin\Debug\OutPara1.pdb
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\OutPara1\obj\Debug\OutPara1.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\OutPara1\obj\Debug\OutPara1.exe
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\OutPara1\obj\Debug\OutPara1.pdb

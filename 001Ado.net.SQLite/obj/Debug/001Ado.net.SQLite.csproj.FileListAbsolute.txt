@@ -1,0 +1,16 @@
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\bin\Debug\001Ado.net.SQLite.exe.config
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\obj\Debug\001Ado.net.SQLite.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\obj\Debug\_001Ado.net.SQLite.MainFrm.resources
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\obj\Debug\_001Ado.net.SQLite.Properties.Resources.resources
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\obj\Debug\001Ado.net.SQLite.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\bin\Debug\001Ado.net.SQLite.exe
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\bin\Debug\001Ado.net.SQLite.pdb
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\obj\Debug\001Ado.net.SQLite.exe
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\obj\Debug\001Ado.net.SQLite.pdb
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\bin\Debug\ChnCharInfo.dll
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\bin\Debug\System.Data.SQLite.dll
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\bin\Debug\ChnCharInfo.xml
+E:\My Documents\Visual Studio 2015\Projects\CaterDemo\001Ado.net.SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\vike\Desktop\Cater服务项目\001Ado.net.SQLite\bin\Debug\001Ado.net.SQLite.exe.config
+C:\Users\vike\Desktop\Cater服务项目\001Ado.net.SQLite\obj\Debug\001Ado.net.SQLite.exe
+C:\Users\vike\Desktop\Cater服务项目\001Ado.net.SQLite\obj\Debug\001Ado.net.SQLite.pdb
